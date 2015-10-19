@@ -104,7 +104,7 @@ class Exercise
 =end
 
     counter = 1
-    even_fib_total = 0;
+    even_fib_total = 0
 
     while 3*counter <= nth
     
